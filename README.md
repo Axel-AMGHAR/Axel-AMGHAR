@@ -1,4 +1,7 @@
-### Hi there 👋
+Je suis dev web
+Je travaille actuellement en alternance à SFG et à mi-temps en Mastère 1 à YNOV en dévelopement web
+
+📫 axel.amghar@gmail.com
 
 <!--
 **Axel-AMGHAR/Axel-AMGHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
