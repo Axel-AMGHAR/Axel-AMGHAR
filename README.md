@@ -1,5 +1,4 @@
-Je suis dev web
-Je travaille actuellement en alternance à SFG et à mi-temps en Mastère 1 à YNOV en dévelopement web
+Développeur Full Stack
 
 📫 axel.amghar@gmail.com
 
